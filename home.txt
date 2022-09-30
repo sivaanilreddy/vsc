@@ -1,0 +1,10 @@
+//it is for home module of mynthra
+
+modulues pf e-commerce websites
+1. login
+2. signup
+3. home
+4. buy
+5. customer sup[port
+6. order quieries
+
